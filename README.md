@@ -1,2 +1,2 @@
-# python-word-guessing-game
-word guessing game made with pure python.
+# python-number-guessing-game
+number guessing game made with pure python.
