@@ -4,7 +4,7 @@ Jogo de adivinhação de números feito com python puro
 
 ## 🔨 Funcionalidades do projeto
 
-Escolha o nível de dificuldade e tente acertar o número secreto
+Escolha o nível de dificuldade e tente acertar o número secreto  
 No final recerá sua pontuação de acordo com as tentativas e proximidade dos chutes
 
 ## ✔️ Técnicas e tecnologias utilizadas
